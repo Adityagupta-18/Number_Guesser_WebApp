@@ -52,9 +52,10 @@ Once the correct number is guessed, the game automatically restarts so the playe
 
 ## Game Preview
 
-Add your screenshots here:
-
 ```md
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/780d3320-59bd-4e2c-bf3b-bc1a609cb81f" />
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/cfb62477-bd63-431e-8eb6-1762cf3beac4" />
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/780d3320-59bd-4e2c-bf3b-bc1a609cb81f" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/cfb62477-bd63-431e-8eb6-1762cf3beac4" width="45%"/>
+</p>
 
